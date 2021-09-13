@@ -1,0 +1,8 @@
+{
+  "name": "Pharmfinder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "582b1b4e"
+}

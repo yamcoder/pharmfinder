@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Pharmfinder",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
